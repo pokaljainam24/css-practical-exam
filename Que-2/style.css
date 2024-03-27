@@ -1,0 +1,59 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: url(./images/9983274.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        backdrop-filter: blur(5px);
+    }
+    
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        background-image: url(./images/top-view-colorful-paper-sheets.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    h2 {
+        text-align: center;
+        color: #f8f8f8;
+    }
+    
+    .testimonial {
+        margin-bottom: 30px;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+    
+    .testimonial img {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        float: left;
+        margin-right: 20px;
+    }
+    
+    .testimonial .content {
+        overflow: hidden;
+    }
+    
+    .testimonial h3 {
+        color: #333;
+        margin-top: 0;
+    }
+    
+    .testimonial p {
+        color: #666;
+        margin-bottom: 0;
+    }
